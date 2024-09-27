@@ -1,0 +1,4 @@
+baseURL = 'https://webiction.com/'
+languageCode = 'en-us'
+title = 'Webiction'
+theme = 'ananke'
